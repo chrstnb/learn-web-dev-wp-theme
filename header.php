@@ -9,9 +9,9 @@
  *
  * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
  *
- * @package WordPress
- * @subpackage Twenty_Fifteen
- * @since Twenty Fifteen 1.0
+ * @package Christine
+ * @subpackage Simple_Theme
+ * @since 2017
  */ ?>
 <!doctype html>
 <html class="no-js" lang="">
